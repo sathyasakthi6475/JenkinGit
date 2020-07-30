@@ -6,3 +6,6 @@ System.out.println("Hello");
 System.out.println("Hi");
 System.out.println("Wave");
 System.out.println("Bye");
+  
+  }
+}
